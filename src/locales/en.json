@@ -2,9 +2,9 @@
   "site": {
     "name": "Nayi Naveli Wiki",
     "shortName": "Nayi Naveli",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to Nayi Naveli on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "tagline": "Cast, Story, Trailer & Release Date",
+    "description": "Explore Nayi Naveli (2026), including its story, cast, release date, trailer, characters, genres, and movie updates in one convenient fan guide.",
+    "legalNotice": "Independent fan guide. Not affiliated with the filmmakers, studios, or distributors."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete Nayi Naveli guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Nayi Naveli",
-      "description": "Master your restaurant in Nayi Naveli on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "2026 Indian Fantasy Horror Comedy",
+      "title": "Nayi Naveli Wiki",
+      "description": "Explore Nayi Naveli (2026), a Hindi fantasy horror comedy about a mysterious bride who transforms a chaotic household. Discover the story, cast, trailer, release date, and movie updates.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Oct 16, 2026",
+        "135 min",
+        "5 Genres",
+        "Hindi"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "View on IMDb",
+      "secondaryCta": "Cast & Story",
+      "tertiaryCta": "Watch Official Teaser",
+      "videoLabel": "Official teaser"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Nayi Naveli?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Discover Nayi Naveli",
+      "description": "From its mysterious bride to the film's cast, story, and release details, our independent fan guide brings the 2026 Hindi fantasy horror comedy into focus.",
+      "primary": "Explore Cast & Story",
+      "secondary": "Watch Official Teaser"
     }
   },
   "bosses": {
@@ -380,20 +380,20 @@
   },
   "footer": {
     "aboutTitle": "Nayi Naveli Wiki",
-    "about": "Nayi Naveli Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "about": "An independent fan guide to Nayi Naveli (2026), covering the cast, story, release date, trailer, and verified movie details.",
     "quickLinks": "Quick Links",
-    "guides": "Guides",
+    "guides": "Explore",
     "legal": "Legal",
-    "copyright": "2026 Nayi Naveli Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Nayi Naveli",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "copyright": "© 2026 Nayi Naveli Wiki. Independent fan guide; not affiliated with the filmmakers or studios.",
+    "description": "Independent fan guide to the 2026 Hindi fantasy horror comedy.",
+    "playGame": "View on IMDb",
+    "officialDiscord": "IMDb Movie Page",
+    "officialYoutube": "Official Teaser",
+    "vvBuilder": "About This Wiki",
+    "beginnerGuide": "About the Film",
+    "raceGuides": "Cast & Crew",
+    "bossGuides": "Release Date",
+    "buildGuide": "Official Trailer",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
