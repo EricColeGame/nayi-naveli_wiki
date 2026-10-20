@@ -6,7 +6,18 @@
     "description": "Explore Nayi Naveli (2026), including its story, cast, release date, trailer, characters, genres, and movie updates in one convenient fan guide.",
     "legalNotice": "Independent fan guide. Not affiliated with the filmmakers, studios, or distributors."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "reviews": "Reviews",
+    "streaming": "Streaming",
+    "characters": "Characters",
+    "media": "Media",
+    "production": "Production",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Nayi Naveli Wiki — Cast, Story, Trailer & Release Date",
@@ -461,7 +472,34 @@
       "secondary": "Watch Official Teaser"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Nayi Naveli Movie Guide",
+    "overviewDescription": "Explore Nayi Naveli story details, release information, filming locations, and the key plot points viewers ask about."
+  },
+  "reviews": {
+    "overviewTitle": "Nayi Naveli Reviews",
+    "overviewDescription": "Read Nayi Naveli review coverage, IMDb context, box office figures, and verdicts on how the 2026 film has been received."
+  },
+  "streaming": {
+    "overviewTitle": "Nayi Naveli Streaming",
+    "overviewDescription": "Find out where to watch Nayi Naveli online, including OTT release updates, Netflix and Amazon Prime availability, and streaming details."
+  },
+  "characters": {
+    "overviewTitle": "Nayi Naveli Characters",
+    "overviewDescription": "Meet the Nayi Naveli cast and characters, including Yami Gautam, Jacqueline Fernandez, supporting performers, and the film's villain."
+  },
+  "media": {
+    "overviewTitle": "Nayi Naveli Media",
+    "overviewDescription": "Watch and explore Nayi Naveli trailers, teasers, first-look images, posters, and trailer breakdowns."
+  },
+  "production": {
+    "overviewTitle": "Nayi Naveli Production",
+    "overviewDescription": "Learn about the Nayi Naveli director, producers, budget, remake background, and release plans in the United States."
+  },
+  "community": {
+    "overviewTitle": "Nayi Naveli Community",
+    "overviewDescription": "Follow Nayi Naveli audience reactions, Reddit discussion, and ending explanations from viewers."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

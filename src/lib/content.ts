@@ -237,39 +237,62 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Movie Guide",
+  reviews: "Reviews",
+  streaming: "Streaming",
+  characters: "Characters",
+  media: "Media",
+  production: "Production",
+  community: "Community",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+const GROUP_TITLES_HI: Record<string, string> = {
+  guide: "फ़िल्म गाइड",
+  reviews: "समीक्षाएँ",
+  streaming: "स्ट्रीमिंग",
+  characters: "किरदार",
+  media: "मीडिया",
+  production: "निर्माण",
+  community: "कम्युनिटी",
+};
+
+const GROUP_TITLES_BN: Record<string, string> = {
+  guide: "ফিল্ম গাইড",
+  reviews: "পর্যালোচনা",
+  streaming: "স্ট্রিমিং",
+  characters: "চরিত্র",
+  media: "মিডিয়া",
+  production: "প্রযোজনা",
+  community: "কমিউনিটি",
+};
+
+const GROUP_TITLES_TA: Record<string, string> = {
+  guide: "திரைப்பட வழிகாட்டி",
+  reviews: "விமர்சனங்கள்",
+  streaming: "ஸ்ட்ரீமிங்",
+  characters: "கதாபாத்திரங்கள்",
+  media: "மீடியா",
+  production: "தயாரிப்பு",
+  community: "சமூகம்",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  hi: GROUP_TITLES_HI,
+  bn: GROUP_TITLES_BN,
+  ta: GROUP_TITLES_TA,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  hi: "अवलोकन",
+  bn: "সারসংক্ষেপ",
+  ta: "மேலோட்டம்",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "reviews", "streaming", "characters", "media", "production", "community",
 ];
 
 /**
