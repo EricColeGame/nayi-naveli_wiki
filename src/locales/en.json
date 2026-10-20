@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Nayi Naveli Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Nayi Naveli guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Nayi Naveli Wiki — Cast, Story, Trailer & Release Date",
+      "description": "Explore Nayi Naveli (2026), a Hindi horror-comedy about a mysterious bride, a chaotic Meerut household, and the family that starts to suspect her."
     },
     "hero": {
       "eyebrow": "2026 Indian Fantasy Horror Comedy",
@@ -18,8 +18,8 @@
       "description": "Explore Nayi Naveli (2026), a Hindi fantasy horror comedy about a mysterious bride who transforms a chaotic household. Discover the story, cast, trailer, release date, and movie updates.",
       "stats": [
         "Oct 16, 2026",
-        "135 min",
-        "5 Genres",
+        "138 min",
+        "6 Genres",
         "Hindi"
       ],
       "primaryCta": "View on IMDb",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start with the story, the central mystery, and the names that matter before diving into spoiler-heavy plot breakdowns."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Cast & Characters",
+          "description": "Meet Yami Gautam's too-perfect bride, Sunita Rajwar, and the ensemble behind the Meerut household."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Trailer & Release",
+          "description": "Watch the official trailer and check the October 16, 2026 theatrical release, runtime, and language details."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Nayi Naveli."
+          "title": "Ending Explained",
+          "description": "Untangle the final twist, the brother-in-law's suspicion, and what the film leaves open after the credits."
         }
       ]
     },
@@ -62,237 +62,363 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Movie Overview",
+        "Cast & Crew",
+        "Official Trailer",
+        "Ending Explained"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Start",
+          "title": "Nayi Naveli Movie Overview",
+          "description": "The premise, genre mix, director, production companies, and release details in one guide.",
+          "href": "/guide/nayi-naveli-explained"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Cast",
+          "title": "Nayi Naveli Cast & Crew",
+          "description": "Yami Gautam, Sunita Rajwar, and the full ensemble and creative team behind the film.",
+          "href": "/characters/nayi-naveli-cast-and-crew"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Watch",
+          "title": "Nayi Naveli Official Trailer",
+          "description": "The official preview, the bride's introduction, and the horror-comedy tone in one breakdown.",
+          "href": "/media/nayi-naveli-official-trailer"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Story",
+          "title": "Nayi Naveli Story & Plot",
+          "description": "Follow the Meerut household, the new bride, and the suspicion that changes the family.",
+          "href": "/guide/nayi-naveli-plot"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Spoilers",
+          "title": "Nayi Naveli Ending Explained",
+          "description": "A clear look at the bride's true nature and the final twist after the credits.",
+          "href": "/community/nayi-naveli-ending-explained"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Reception",
+          "title": "Nayi Naveli IMDb Rating",
+          "description": "What the film's 5.3/10 score and early audience and critic reactions reveal.",
+          "href": "/reviews/nayi-naveli-imdb-rating"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Streaming",
+          "title": "Nayi Naveli Watch Online",
+          "description": "Theatrical details, Prime Video's OTT partnership, and legitimate viewing options.",
+          "href": "/streaming/nayi-naveli-watch-online"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Release",
+          "title": "Nayi Naveli Release Date",
+          "description": "The October 16, 2026 opening, runtime, cast, and streaming outlook.",
+          "href": "/guide/nayi-naveli-2026-release-date"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Genre",
+          "title": "Nayi Naveli Horror Comedy",
+          "description": "How family humor, fantasy, mystery, and supernatural dread share the screen.",
+          "href": "/guide/nayi-naveli-horror-comedy"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Nayi Naveli?",
       "paragraphs": [
-        "Nayi Naveli is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Nayi Naveli is a 2026 Hindi horror-comedy directed by Balaji Mohan. Yami Gautam leads the story as a picture-perfect new bride who arrives in a chaotic Meerut household and, almost overnight, turns it into something close to paradise.",
+        "Her brother-in-law is the only family member who questions the transformation. As the comedy gives way to mystery and supernatural dread, the film asks whether the ideal daughter-in-law is a genuine blessing or an evil force from another world."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Release Date",
+          "value": "Oct 16, 2026"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Runtime",
+          "value": "138 min"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Language",
+          "value": "Hindi"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Director",
+          "value": "Balaji Mohan"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Genres",
+          "value": "6"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Lead Cast",
+          "value": "Yami Gautam, Sunita Rajwar"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Production",
+          "value": "Amazon MGM Studios, Colour Yellow Productions"
+        },
+        {
+          "label": "Setting",
+          "value": "Meerut, Uttar Pradesh"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Nayi Naveli Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Follow the story, cast, trailer, reception, and streaming details behind Nayi Naveli with eight focused guides to the 2026 Hindi horror-comedy.",
       "modules": [
         {
           "order": 1,
-          "name": "Nayi Naveli Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/nayi-naveli-codes",
-          "displayType": "code-box",
+          "name": "Nayi Naveli Movie Overview",
+          "description": "An introduction to Nayi Naveli, covering its central premise, genre mix, director, production companies, release date, and Meerut setting.",
+          "href": "/guide/nayi-naveli-explained",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Release",
+              "detail": "Nayi Naveli opened in Indian theaters on October 16, 2026."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Runtime",
+              "detail": "The film runs 2 hours 18 minutes, or 138 minutes."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Language",
+              "detail": "Nayi Naveli is a Hindi-language Indian production."
+            },
+            {
+              "label": "Director",
+              "detail": "Balaji Mohan directs and co-writes with Divy Nidhi Sharma."
+            },
+            {
+              "label": "Studio",
+              "detail": "Amazon MGM Studios and Colour Yellow Productions produced the film."
+            },
+            {
+              "label": "Setting",
+              "detail": "The story unfolds in a chaotic joint household in Meerut, Uttar Pradesh."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/nayi-naveli-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Nayi Naveli Beginner Guide",
+          "description": "A beginner-friendly path through the premise, key characters, genre layers, and the questions that drive the film toward its reveal.",
+          "href": "/guide/nayi-naveli-story",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Begin in Meerut with the family's noisy, disorganized daily life."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Watch the new bride restore order and become the household's perfect solution."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Follow the brother-in-law as he notices cracks in that perfection."
+            },
+            {
+              "label": "4",
+              "detail": "Read each warm family scene as both comedy and possible supernatural warning."
+            },
+            {
+              "label": "5",
+              "detail": "Track the mystery through the unanswered questions about the bride's past."
+            },
+            {
+              "label": "6",
+              "detail": "Finish with the ending explained guide to unpack the final twist."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/nayi-naveli-tier-list",
-          "displayType": "tier-grid",
+          "name": "Nayi Naveli Story Guide",
+          "description": "A clear breakdown of the story's main turns, from the chaotic household and the bride's arrival to the suspicion, investigation, and reckoning.",
+          "href": "/guide/nayi-naveli-plot",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Household",
+              "detail": "A loud, disorganized joint family in Meerut struggles with everyday conflict."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Arrival",
+              "detail": "A polished new bride fixes meals, cools tempers, and brings sudden calm."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Doubt",
+              "detail": "Her brother-in-law begins to question why the transformation is so complete."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Reveal",
+              "detail": "The mystery builds around whether the bride is human or an evil force."
+            },
+            {
+              "label": "Aftermath",
+              "detail": "The family must confront what her presence means for their future."
+            },
+            {
+              "label": "Genres",
+              "detail": "Comedy, drama, family, fantasy, horror, and mystery shape the tone."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/nayi-naveli-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Nayi Naveli Trailer Guide",
+          "description": "A guide to the official teaser, trailer, first look, and poster, with the story and cast details each piece of footage highlights.",
+          "href": "/media/nayi-naveli-official-trailer",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Teaser",
+              "detail": "The 1:31 teaser introduces the bride and the household's uneasy calm."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Trailer",
+              "detail": "The 3:02 trailer leans into the comedy-horror contrast and the brother-in-law's suspicion."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "First Look",
+              "detail": "Yami Gautam's bride is the centerpiece of the film's promotional imagery."
+            },
+            {
+              "label": "Poster",
+              "detail": "The key art frames the perfect bride against the film's supernatural mystery."
+            },
+            {
+              "label": "Cast",
+              "detail": "Yami Gautam, Sunita Rajwar, Jacqueline Fernandez, and Mita Vashisht appear in the campaign."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/nayi-naveli-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Nayi Naveli Characters Guide",
+          "description": "Meet the bride, her suspicious brother-in-law, and the Meerut family whose relationships power the comedy, mystery, and supernatural tension.",
+          "href": "/characters/nayi-naveli-cast-and-crew",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Bride",
+              "detail": "Yami Gautam plays the polished new daughter-in-law at the center of the mystery."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Brother",
+              "detail": "The brother-in-law becomes the family's most persistent source of doubt."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Sunita",
+              "detail": "Sunita Rajwar is second-billed in the ensemble around the bride."
+            },
+            {
+              "label": "Ensemble",
+              "detail": "Jacqueline Fernandez, Mita Vashisht, and Sushmita Mukherjee round out the cast."
+            },
+            {
+              "label": "Family",
+              "detail": "The Meerut household's habits and conflicts give the story its comic texture."
+            },
+            {
+              "label": "Mystery",
+              "detail": "The bride's past and true nature drive the film's central question."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/nayi-naveli-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Nayi Naveli Reception Tier List",
+          "description": "A tiered look at the film's lead performance, central premise, genre blend, and early box-office reception.",
+          "href": "/reviews/nayi-naveli-imdb-rating",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Yami Gautam leads the campaign and remains the film's clearest strength."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "The perfect-bride premise gives the horror-comedy a distinctive hook."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "The six-genre blend divides viewers and critics over tone and execution."
+            },
+            {
+              "label": "C",
+              "detail": "Early box-office reports describe a weak opening and limited momentum."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Nayi Naveli Streaming Guide",
+          "description": "A step-by-step route through theatrical release details, the Prime Video OTT announcement, regional availability, and safe viewing options.",
+          "href": "/streaming/nayi-naveli-watch-online",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Start with the theatrical release: Nayi Naveli opened in India on October 16, 2026."
+            },
+            {
+              "label": "2",
+              "detail": "Search both Nayi Naveli and the original title Nayyi Navelli in listings."
+            },
+            {
+              "label": "3",
+              "detail": "Check Amazon Prime Video, the named OTT partner, for a premiere date."
+            },
+            {
+              "label": "4",
+              "detail": "Use a region-aware streaming tracker to find licensed availability."
+            },
+            {
+              "label": "5",
+              "detail": "Choose a legitimate rental or subscription option instead of a free download page."
+            },
+            {
+              "label": "6",
+              "detail": "Set a watchlist alert so the digital release appears as soon as it is live."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Nayi Naveli Release Updates",
+          "description": "Track the key release facts and announcements around Nayi Naveli, including its theatrical opening, runtime, cast, trailer, and streaming plans.",
+          "href": "/guide/nayi-naveli-2026-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Nayi Naveli opened in Indian theaters on Friday, October 16, 2026."
+            },
+            {
+              "label": "Runtime",
+              "detail": "The film's listed runtime is 2 hours 18 minutes, or 138 minutes."
+            },
+            {
+              "label": "Cast",
+              "detail": "Yami Gautam and Sunita Rajwar lead a large Hindi ensemble."
+            },
+            {
+              "label": "Trailer",
+              "detail": "The official trailer runs 3:02, with a 1:31 teaser released earlier."
+            },
+            {
+              "label": "Streaming",
+              "detail": "Amazon Prime Video is the named OTT partner; the premiere date is not yet announced."
+            },
+            {
+              "label": "Updates",
+              "detail": "Follow the release-date guide for theatrical and digital availability changes."
             }
           ]
         }
@@ -300,27 +426,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Nayi Naveli.",
+      "description": "Quick answers about Nayi Naveli, its story, cast, release, and streaming status.",
       "items": [
         {
-          "question": "What is Nayi Naveli?",
-          "answer": "Nayi Naveli is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Nayi Naveli about?",
+          "answer": "Nayi Naveli is a 2026 Hindi horror-comedy about a picture-perfect bride who transforms a chaotic Meerut household, while her brother-in-law begins to suspect she is an evil force from another world."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When did Nayi Naveli release in theaters?",
+          "answer": "Nayi Naveli opened in Indian theaters on October 16, 2026, with a listed runtime of 2 hours 18 minutes."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Who stars in Nayi Naveli?",
+          "answer": "Yami Gautam leads Nayi Naveli as the new bride, with Sunita Rajwar, Jacqueline Fernandez, Mita Vashisht, and Sushmita Mukherjee in the ensemble."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is Nayi Naveli a horror movie or a comedy?",
+          "answer": "Nayi Naveli blends comedy, drama, family, fantasy, horror, and mystery, moving from warm household humor into supernatural suspense."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I watch Nayi Naveli online?",
+          "answer": "Nayi Naveli opened in theaters first. Amazon Prime Video is the named OTT partner, and the streaming guide tracks the digital premiere and regional options."
+        },
+        {
+          "question": "What happens at the end of Nayi Naveli?",
+          "answer": "The Nayi Naveli ending explained guide breaks down the bride's true nature, the brother-in-law's suspicion, and the film's final twist."
         }
       ]
     },
